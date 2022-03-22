@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Liberman Reuven
-- 👀 I’m interested in Data Science and everything that has connection with data and algorithms 
-
+This project dealing with recognition of fake id via photos. It could be use in HR devison to recognize suspicious candidates 
 
 
 
